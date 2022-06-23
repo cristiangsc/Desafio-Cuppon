@@ -1,0 +1,43 @@
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    margin: 0;
+}
+
+nav.bg-light {
+    background-color: #28A745 !important;
+}
+
+.nav-link {
+    color: aliceblue !important;
+}
+
+.card-title {
+    font-weight: 300;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255, 255, 255);
+}
+
+.text-color {
+    font-family: 'Roboto';
+    font-weight: 300;
+}
+
+.color-fondo {
+    background-color: #28A745;
+}
+
+.btn-color {
+    background-color: #F8F9FA;
+    color: black;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
